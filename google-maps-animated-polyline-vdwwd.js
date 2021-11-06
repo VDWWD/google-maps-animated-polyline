@@ -151,7 +151,7 @@ function animatePolyline() {
                 strokeColor: '#ff0000',
                 strokeOpacity: 1,
                 strokeWeight: 5,
-                zIndex: i + 2,
+                zIndex: 10,
                 map: map
             });
 
